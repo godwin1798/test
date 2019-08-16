@@ -1,0 +1,8 @@
+.reg_form{
+    width: 100%;
+    margin: 3% auto;    
+}
+
+.reg_form input, .reg_form select{
+    width: 100%;
+}
